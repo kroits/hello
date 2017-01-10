@@ -13,6 +13,7 @@ public class MainActivity extends ActionBarActivity {
 		setContentView(R.layout.activity_main);
 		
 		Log.i("hello,world","world2");
+		Log.i("hello,world","world2");
 	}
 
 	@Override
